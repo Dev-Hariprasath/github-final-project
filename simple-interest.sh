@@ -27,7 +27,7 @@
         .calculator {
             background-color: #ecf0f3;
             padding: 15px;
-            border-radius: 30px;
+            border-radius: 35px;
             box-shadow: inset 5px 5px 12px #ffffff, 5px 5px 12px rgb(0,0,0,.16);
             display: grid;
             grid-template-columns: repeat(4, 1fr);
